@@ -18,6 +18,6 @@ python - plotly, ipywidgets, folium, voila
 ![casesLines](./visuals/66.png)
 ![casesLines](./visuals/77.png)
 ![casesLines](./visuals/88.PNG)
-![casesLines](./visuals/99.PNG)
-![casesLines](./visuals/10.PNG)
+![casesLines](./visuals/99.png)
+![casesLines](./visuals/10.png)
 

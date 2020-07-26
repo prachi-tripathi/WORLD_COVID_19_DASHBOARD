@@ -1,5 +1,3 @@
-COVID-19 WORLD INTERACTIVE DASHBOARD
-
 # Creating a dashboard out of your jupyter notebook without writing any fronted or backed code.
 
 # Source Data  
